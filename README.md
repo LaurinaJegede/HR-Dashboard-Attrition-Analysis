@@ -38,9 +38,6 @@ These findings give decision-makers visibility into attrition risks, department-
 - Building interactive reports in Power BI using slicers, cards, and KPIs.  
 - Writing DAX formulas for averages, attrition rate, and tenure categories.  
 
-📎 Report Link  
-[🔗 View Full Dashboard Here](#)  
-
  🔜 Next Steps  
 - Build on DAX proficiency with more advanced calculations.  
 
